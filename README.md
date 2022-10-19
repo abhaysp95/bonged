@@ -14,7 +14,7 @@
 ## todo
 
 * [x] grouping based on provided seperator characters as string (built-in)
-* [] more refined grouping based on the `regex` provided
-	- [o] built-in regex
-	- [] user provided regex
-* [] add `maxdepth` feature
+* [ ] more refined grouping based on the `regex` provided
+	- [ ] built-in regex
+	- [ ] user provided regex
+* [ ] add `maxdepth` feature
